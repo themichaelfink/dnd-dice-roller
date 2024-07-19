@@ -1,12 +1,11 @@
 name: dnd_dice_roller
-description: An absolute bare-bones web app.
+description: A dice rolling application
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+# repository: https://github.com/themichaelfink/dnd-dice-roller
 
 environment:
   sdk: ^3.3.1
 
-# Add regular dependencies here.
 dependencies:
   web: ^0.4.0
 
