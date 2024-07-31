@@ -4,6 +4,8 @@ A simple Dart web application using the dart:html package that provides buttons 
 
 This is a simple Dungeons and Dragons dice roller web application built with Dart.
 
+![App Screenshot](screenshot.png)
+
 ## Installation
 
 ### Download
