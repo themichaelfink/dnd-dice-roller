@@ -1,9 +1,16 @@
 # D&D Dice Roller
+
 A simple Dart web application using the dart:html package that provides buttons for Dungeons and Dragons dice rolls (d4, d6, d8, d10, d12, d20).
 
 This is a simple Dungeons and Dragons dice roller web application built with Dart.
 
 ## Installation
+
+### Download
+
+You can download the latest release from the Releases page on the right-hand side of the repository page. The releases include both a .zip file and a .msi installer for easy setup.
+
+## Manual Setup
 
 1. Ensure you have Dart SDK installed. You can download and install it from [Dart SDK](https://dart.dev/get-dart).
 2. Clone the repository:
